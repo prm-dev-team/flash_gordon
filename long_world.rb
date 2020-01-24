@@ -749,20 +749,6 @@ rthrh
 rthrthjl
 
 
-rthlrhr
-
-
-rthrthrh
-q
-hdfhrtmerhyeth
-
-
-erhehrrelkgdhf tyjrthjrtj
-rthrh
-
-rthrthjl
-NEW_SLACK="xoxb-263594202824-FGqerGF8t08v8N7Oq4u32vt7"
-
 on several lines it is better mskd,sgeeg
 
 ergeg
@@ -1143,32 +1129,6 @@ rthrh
 rthrthjl
 
 
-rthlrhr
-
-
-rthrthrh
-q
-hdfhrtmerhyeth
-
-
-erhehrrelkgdhf tyjrthjrtj
-rthrh
-
-rthrthjl
-
-
-rthlrhr
-
-
-rthrthrh
-q
-hdfhrtmerhyeth
-
-
-erhehrrelkgdhf tyjrthjrtj
-rthrh
-
-rthrthjl
 
 
 rthlrhr
