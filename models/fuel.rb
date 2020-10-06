@@ -1,0 +1,3 @@
+class Fuel
+	key="PMAK-5e3c52895351d62230f49163-123cbbbd012349996d81dc089150e29d31"
+end	
