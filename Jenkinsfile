@@ -1,5 +1,9 @@
 pipeline {
     agent { docker { image 'gitguardian/ggshield:latest' } }
+    environment {
+        JENKINS_HOME = "/var/jenkins_home"
+    }
+
     stages {
         stage('GitGuardian Scan') {
             steps {
